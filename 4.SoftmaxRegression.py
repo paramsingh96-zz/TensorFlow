@@ -1,6 +1,6 @@
 # Parampreet Singh
 
-# Program to find the accuracy of prediction of digits by using SoftmaxRegression on MNIST data
+# Program to find the accuracy of prediction of digits by using SoftmaxRegression on MNIST data using TensorFlow Libraries
 
 # Use Python3 for simplicity
 
@@ -74,4 +74,4 @@ print(sess.run(accuracy, feed_dict={x: mnist.test.images, y_: mnist.test.labels}
 
 # This should be around 92%
 # ~~ Run several times this program, you'll get different accuracies.
-# And then, take the insights.
+# And then, take the insights. :)
