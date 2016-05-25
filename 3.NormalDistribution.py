@@ -29,3 +29,4 @@ plt.plot(z.eval())
 #Showing the plotted graph 
 plt.show()
 
+#Similarly, its easy to find probability distribution curve. :)
