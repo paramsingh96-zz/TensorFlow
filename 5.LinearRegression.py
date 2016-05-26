@@ -36,9 +36,11 @@ y_model = model(X, W, b)
 cost = tf.square(Y - y_model)
 
 # Defining our optimising algorithm for LinearRegression
+# 0.01 is the learning rate
 train_op = tf.train.GradientDescentOptimizer(0.01).minimize(cost)
 
 # Initialising all variables and running session for execution
+# Launching the graph is sessions
 init = tf.initialize_all_variables()
 sess = tf.Session()
 sess.run(init)
