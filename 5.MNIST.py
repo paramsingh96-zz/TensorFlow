@@ -1,6 +1,6 @@
 # Parampreet Singh
 
-# Simple tutorial for understanding MNIST DataSets
+# Simple tutorial for understanding MNIST Data Sets
 
 # Importing different libraries
 import tensorflow as tf
