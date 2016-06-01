@@ -1,6 +1,9 @@
-# Parampreet Singh
-
-# Program to find the accuracy of prediction of digits by using SoftmaxRegression on MNIST data using TensorFlow Libraries
+'''
+    Author= 'Parampreet Singh'
+    Project= 'https://github.com/paramsingh96/TensorFlow-Tutorials'
+    
+    Program to find the accuracy of prediction of digits by using SoftmaxRegression on MNIST data using TensorFlow Libraries
+'''
 
 # Use Python3 for simplicity
 
