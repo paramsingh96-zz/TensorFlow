@@ -1,6 +1,9 @@
-# Parampreet Singh
-
-# Program to implement LinearRegression Learning Algorithm using TensorFlow in Python
+'''
+    Author= 'Parampreet Singh'
+    Project= 'https://github.com/paramsingh96/TensorFlow-Tutorials'
+    
+    LinearRegression Learning Algorithm using TensorFlow in Python
+'''
 
 # Importing Libraries
 import tensorflow as tf
