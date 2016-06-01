@@ -1,6 +1,9 @@
-#Parampreet Singh
-
-#Matrix Multiplication using TensorFlow Library
+'''
+    Author= 'Parampreet Singh'
+    Project= 'https://github.com/paramsingh96/TensorFlow-Tutorials'
+    
+    Matrix Multiplication in Python using TensorFlow Libraries
+'''
 
 import tensorflow as tf
 
