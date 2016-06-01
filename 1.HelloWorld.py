@@ -1,6 +1,8 @@
-#Parampreet Singh
-
-#HelloWorld program using TensorFlow Library
+'''
+    Author= 'Parampreet Singh'
+    Project= 'https://github.com/paramsingh96/TensorFlow-Tutorials'
+    HelloWorld program using TensorFlow Library
+'''
 
 import tensorflow as tf
 
