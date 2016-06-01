@@ -1,8 +1,11 @@
-#Parampreet Singh
-
-# ~This program will help those having sound knowledge of Probability Theory
-
-#Program to find The Normal Distribution Curve using TensorFlow Library
+'''
+    Author= 'Parampreet Singh'
+    Project= 'https://github.com/paramsingh96/TensorFlow-Tutorials'
+    
+    ~This program will help those having sound knowledge of Probability Theory
+    
+    Program to find The Normal Distribution Curve using TensorFlow Library
+'''
 
 import tensorflow as tf
 import matplotlib.pyplot as plt
