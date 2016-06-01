@@ -1,6 +1,9 @@
-# Parampreet Singh
-
-# Simple tutorial for understanding MNIST Data Sets
+'''
+    Author= 'Parampreet Singh'
+    Project= 'https://github.com/paramsingh96/TensorFlow-Tutorials'
+    
+    Simple tutorial for understanding MNIST Data Sets
+'''
 
 # Importing different libraries
 import tensorflow as tf
