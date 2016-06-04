@@ -4,9 +4,9 @@ Hi Internet,
 
 I like Python using TensorFlow library (that's why I made it of).
 
-Hoping that you've installed TensorFlow in your system. 
+Hoping that you've installed TensorFlow in your system.<url><a href="https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html">(Installation)</a></url> 
 
-Look at some easy codes in Python.
+Look at some easy codes in Python using this library.
 
 ### 1. Hello World <url><a href="https://github.com/paramsingh96/TensorFlow-Tutorials/blob/master/HelloWorld.py">(code)</url></a>
 ### 2. Matrix Multiplication <url><a href="https://github.com/paramsingh96/TensorFlow-Tutorials/blob/master/MatrixMultiplication.py">(code)</url></a>
