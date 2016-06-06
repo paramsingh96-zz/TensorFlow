@@ -15,5 +15,6 @@ Look at some easy codes in Python using this library.
 ### 5. Understanding MNIST DataSets <url><a href="https://github.com/paramsingh96/TensorFlow-Tutorials/blob/master/MNIST.py">(code)</url></a>
 ### 6. Softmax Regression on MNIST DataSets <url><a href="https://github.com/paramsingh96/TensorFlow-Tutorials/blob/master/SoftmaxRegressionMNIST.py">(code)</url></a>
 
+Do contribute here, if you feel any piece of code is relevant.
 
 Hope It would help you. :) ;)
