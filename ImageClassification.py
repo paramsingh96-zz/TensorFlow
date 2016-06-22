@@ -1,7 +1,6 @@
 '''
     Author= 'Parampreet Singh'
-    Project= 'https://github.com/paramsingh96/TensorFlow-Tutorials'
-    HelloWorld program using TensorFlow Library
+    Project= 'https://github.com/paramsingh96/TensorFlow-Tutorials
 '''
 
 """Simple image classification with Inception.
