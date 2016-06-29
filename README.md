@@ -20,4 +20,6 @@ Look at some easy codes in Python using this library.
 
 Do contribute here, if you feel any piece of code is relevant. It would be a good learning experience for me as well. :)
 
+And, more tutorials to come.
+
 Hope It would help you. :) ;)
