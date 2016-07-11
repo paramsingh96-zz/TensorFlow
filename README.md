@@ -18,7 +18,6 @@ Look at some easy codes in Python using this library.
 ### 6. Softmax Regression on MNIST DataSets <url><a href="https://github.com/paramsingh96/TensorFlow-Tutorials/blob/master/SoftmaxRegressionMNIST.py">(code)</url></a>
 ### 7. Image Classification on Inception Data <url><a href="https://github.com/paramsingh96/TensorFlow-Tutorials/blob/master/ImageClassification.py">(code)</url></a>
 
-Do contribute here, if you feel any piece of code is relevant. It would be a good learning experience for me as well. :)
 
 And, more tutorials to come.
 
