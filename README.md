@@ -19,6 +19,6 @@
 ### 7. Image Classification on Inception Data <url><a href="https://github.com/paramsingh96/TensorFlow-Tutorials/blob/master/ImageClassification.py">(code)</url></a>
 
 
-##### And, more tutorials to come.
+##### And, more to come.
 
 ##### Hope It would help you. :) ;)
