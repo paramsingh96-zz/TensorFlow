@@ -4,7 +4,7 @@
 
 ##### I like Python using TensorFlow library (that's why I made it of).
 
-##### And I feel like making tutorials are the best way to understand things like ML algorithms and AI. 
+##### And I feel like making tutorials is the best way to understand things like ML algorithms and AI. 
 
 ##### Hoping that you've installed TensorFlow in your system.<url><a href="https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html">(Installation)</a></url> 
 
