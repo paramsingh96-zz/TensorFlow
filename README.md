@@ -1,5 +1,5 @@
 # TensorFlow Tutorials
- 
+
 ##### Hi Internet,
 
 ##### I like Python using TensorFlow library (that's why I made it of).
@@ -17,7 +17,6 @@
 ### 5. Understanding MNIST DataSets <url><a href="https://github.com/paramsingh96/TensorFlow-Tutorials/blob/master/MNIST.py">(code)</url></a>
 ### 6. Softmax Regression on MNIST DataSets <url><a href="https://github.com/paramsingh96/TensorFlow-Tutorials/blob/master/SoftmaxRegressionMNIST.py">(code)</url></a>
 ### 7. Image Classification on Inception Data <url><a href="https://github.com/paramsingh96/TensorFlow-Tutorials/blob/master/ImageClassification.py">(code)</url></a>
-
 
 ##### And, more to come.
 
